@@ -1,3 +1,5 @@
+# NEW VERSION: https://github.com/angelcaru/GroundTouchCountMod
+
 # Ground Touch Count Mod
 This is a fork of https://github.com/maddie480/DashCountMod that adds a ground touch counter. **SINCE THIS IS A FORK, MAKE SURE TO DISABLE THE ORIGINAL MOD IF YOU HAVE IT**
 
